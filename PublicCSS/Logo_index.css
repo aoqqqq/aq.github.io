@@ -3,7 +3,7 @@
 a.logo-logHome
 {
   position: absolute;
-    background-image: url(/res/H.png); 
+    background-image: url(../res/H.png); 
      width: 305px;
     height: 46px;
 
